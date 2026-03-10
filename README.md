@@ -32,6 +32,20 @@ powerbi → Power BI dashboard file
 reports → Final project report
 images → Dashboard screenshots
 
+
+## Dataset
+
+The dataset used in this project is the **Brazilian E-Commerce Public Dataset**.
+
+Download it from Kaggle:
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+After downloading, place the CSV files inside:
+
+data/raw_data/
+
+
 ## Author
 
 Sakshi
